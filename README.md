@@ -1,5 +1,5 @@
 # works
-# StockManagementSystem  【7/15日現在作成中】
+# StockManagementSystem  
 
 課題で作成した在庫管理システムです。
 
